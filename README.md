@@ -21,6 +21,8 @@ At Vought Labs, we recognize that blockchain is not just a technology—it’s a
 - **Expert Guidance:** Offering financial support, strategic advice, and technical expertise.  
 - **Community Building:** Helping projects establish vibrant user ecosystems.  
 
+---
+
 # Support
 - Website at Voughtlabs.com
 - Twitter at 
