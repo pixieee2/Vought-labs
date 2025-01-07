@@ -22,7 +22,7 @@ At Vought Labs, we recognize that blockchain is not just a technology—it’s a
 - **Community Building:** Helping projects establish vibrant user ecosystems.  
 
 # Support
-Website at Voughtlabs.com
-Twitter at 
-Discord at Discord
-Telegram at Telegram
+- Website at Voughtlabs.com
+- Twitter at 
+- Discord at Discord
+- Telegram at Telegram
